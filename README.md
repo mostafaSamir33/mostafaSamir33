@@ -12,6 +12,8 @@ Always learning, always building. 🚀
 
 <p align="right"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500"/></p>
+
 ---
 
 ## 🚀 Projects
@@ -102,15 +104,31 @@ A modern Flutter event app inspired by a UI challenge.
 
 ## 📫 Let's Connect
 
-- GitHub: [@mostafaSamir33](https://github.com/mostafaSamir33)
-- LinkedIn: [mostafa-samir-854437312](https://www.linkedin.com/in/mostafa-samir-854437312)
-- Gmail: [mostafasamir.3338@gmail.com](mailto:mostafasamir.3338@gmail.com)
-- WhatsApp: [+201200394396](https://wa.me/201200394396)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" style="vertical-align: middle;" alt="GitHub GIF" />
+  <strong> GitHub:</strong> <a href="https://github.com/mostafaSamir33" target="_blank">@mostafaSamir33</a>
+</p>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" style="vertical-align: middle;" alt="LinkedIn GIF" />
+  <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/mostafa-samir-854437312" target="_blank">mostafa-samir-854437312</a>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/?size=96&id=tnnUFgHrPmR0&format=gif" width="30" style="vertical-align: middle;" alt="Gmail GIF" />
+  <strong> Gmail:</strong> <a href="mailto:mostafasamir.3338@gmail.com">mostafasamir.3338@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" style="vertical-align: middle;" alt="WhatsApp GIF" />
+  <strong> WhatsApp:</strong> <a href="https://wa.me/201200394396">+201200394396</a>
+</p>
+
+
 ---
 
 <h1 align="center">Thanks for stopping by! Feel free to explore my work or reach out 🚀</h1>
-
----
+<p align="center"><img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI1NTc1NjIsIm5iZiI6MTc1MjU1NzI2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE1VDA1Mjc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyYjJiYzA1ZGU0NzQzNTY5NWYwYTRmNzdmZmFjYTAzZTRiYzdkNDY2ZGI5NTUwMWI4ZGViYWM4MjU4MmNiNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gyK97apNG1n77hfy9bPMxUpZp_SQAbBmIw6rx_O_8Do" width="500"/></p>
 
 
 <!--
