@@ -29,6 +29,9 @@ A beautifully designed Flutter app to browse news by category.
 - API integration
 - MVVM
 - BloC
+<p align="center">
+<img src="https://media.tenor.com/BVgQ3t2Qci0AAAAm/groupgreeting-groupgreeting-stickers.webp" width="300"/>
+</p>
 
 ---
 
@@ -42,6 +45,9 @@ An Islamic mobile app built with Flutter.
 - Prayer times (static data)
 - Full support for dark/light themes and RTL layout
 - Provider
+<p align="center">
+<img src="https://media.tenor.com/FqWn96ABCIEAAAAm/mosque-masjid-menara-hijau.webp" width="300"/>
+</p>
 
 ---
 
@@ -54,6 +60,9 @@ A Flutter app that displays a list of movies with details and posters.
 - API integration
 - MVVM
 - BloC
+<p align="center">
+<img src="https://media.tenor.com/zDZRlH-tT1sAAAAM/despicable-me-minions.gif" width="300"/>
+</p>
 
 ---
 
@@ -67,6 +76,9 @@ A modern Flutter event app inspired by a UI challenge.
 - Beautiful UI focused on user experience
 - Google Maps integration
 - State management using Provider
+<p align="center">
+<img src="https://media.tenor.com/KPJE80WFJJwAAAAm/event-author-event.webp" width="300"/>
+</p>
 
 ---
 
