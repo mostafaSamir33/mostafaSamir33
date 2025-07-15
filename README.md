@@ -92,11 +92,12 @@ A modern Flutter event app inspired by a UI challenge.
 ## 📫 Let's Connect
 
 - GitHub: [@mostafaSamir33](https://github.com/mostafaSamir33)
-- *(Add LinkedIn, portfolio, or email if you'd like)*
-
+- LinkedIn: [mostafa-samir-854437312](https://www.linkedin.com/in/mostafa-samir-854437312)
+- Gmail: [mostafasamir.3338@gmail.com](mostafasamir.3338@gmail.com)
+- WhatsApp: [+201200394396](https://wa.me/201200394396)
 ---
 
-<p align="center">Thanks for stopping by! Feel free to explore my work or reach out 🚀</p>
+<h1 align="center">Thanks for stopping by! Feel free to explore my work or reach out 🚀</h1>
 
 
 
