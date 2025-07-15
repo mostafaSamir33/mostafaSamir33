@@ -3,25 +3,49 @@
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects
 
 ### 📰 [News App](https://github.com/mostafaSamir33/news_app)
-- Category-based browsing  
-- Light & dark themes  
-- English and Arabic language support  
-- Search functionality with beautiful UI  
+A beautifully designed Flutter app to browse news by category.
 
-### ✅ [Todo App](https://github.com/mostafaSamir33/todo_app)
-- Task management with add/remove/complete features  
-- Clean and intuitive interface  
+**Features:**
+- Search for articles
+- Light & dark theme toggle
+- English and Arabic language support
+- Reusable components and clean code structure
 
-### 🌦️ [Weather App](https://github.com/mostafaSamir33/weather_app)
-- Displays dynamic weather (dummy/local for now)  
-- Minimalist design ready for API integration  
+---
 
-### 💬 [Quotes App](https://github.com/mostafaSamir33/quotes_app)
-- Motivational quotes with elegant card designs  
-- Great base for a future content app  
+### 📿 [Islami App](https://github.com/mostafaSamir33/islami)
+An Islamic mobile app built with Flutter.
+
+**Features:**
+- Surah list and details
+- Hadith collection
+- Tasbeeh counter
+- Prayer times (static data)
+- Full support for dark/light themes and RTL layout
+
+---
+
+### 🎬 [Movies App](https://github.com/mostafaSamir33/movies_app_)
+A Flutter app that displays a list of movies with details and posters.
+
+**Features:**
+- Clean UI with scrollable movie cards
+- Reusable widgets
+- Ready for API integration (currently using static data)
+
+---
+
+### 📅 [Evently App](https://github.com/mostafaSamir33/evently_app)
+A modern Flutter event app inspired by a UI challenge.
+
+**Features:**
+- Clean onboarding screens
+- Event listings with images
+- Navigation bar and custom page transitions
+- Beautiful UI focused on user experience
 
 ---
 
@@ -45,15 +69,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaSamir33&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
----
-
-## ⚡ Fun Facts
-
-- 🌍 I speak code, English, and Arabic.
-- 💡 I love making UI beautiful and intuitive.
-- 🚀 I’m always learning — especially new Flutter tools and architecture patterns.
-- 🧠 Currently exploring animations, REST APIs, and state management like Provider/Riverpod.
 
 ---
 
