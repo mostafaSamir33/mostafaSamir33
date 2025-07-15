@@ -3,6 +3,14 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a Flutter developer passionate about building elegant, fast, and functional mobile apps.  
+I enjoy working with state management, clean architectures, and APIs to bring ideas to life.  
+Always learning, always building. 🚀
+
+---
+
 ## 🚀 Projects
 
 ### 📰 [News App](https://github.com/mostafaSamir33/news_app)
@@ -13,9 +21,9 @@ A beautifully designed Flutter app to browse news by category.
 - Light & dark theme toggle
 - English and Arabic language support
 - Reusable components and clean code structure
-- Api integration
+- API integration
 - MVVM
-- Bloc
+- BloC
 
 ---
 
@@ -38,9 +46,9 @@ A Flutter app that displays a list of movies with details and posters.
 **Features:**
 - Clean UI with scrollable movie cards
 - Reusable widgets
-- Api integration
+- API integration
 - MVVM
-- Bloc
+- BloC
 
 ---
 
@@ -52,8 +60,8 @@ A modern Flutter event app inspired by a UI challenge.
 - Event listings with images
 - Navigation bar and custom page transitions
 - Beautiful UI focused on user experience
-- Provider
-- Google Maps
+- Google Maps integration
+- State management using Provider
 
 ---
 
@@ -93,7 +101,7 @@ A modern Flutter event app inspired by a UI challenge.
 
 - GitHub: [@mostafaSamir33](https://github.com/mostafaSamir33)
 - LinkedIn: [mostafa-samir-854437312](https://www.linkedin.com/in/mostafa-samir-854437312)
-- Gmail: [mostafasamir.3338@gmail.com](mostafasamir.3338@gmail.com)
+- Gmail: [mostafasamir.3338@gmail.com](mailto:mostafasamir.3338@gmail.com)
 - WhatsApp: [+201200394396](https://wa.me/201200394396)
 ---
 
