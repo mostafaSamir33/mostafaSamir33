@@ -13,6 +13,9 @@ A beautifully designed Flutter app to browse news by category.
 - Light & dark theme toggle
 - English and Arabic language support
 - Reusable components and clean code structure
+- Api integration
+- MVVM
+- Bloc
 
 ---
 
@@ -25,6 +28,7 @@ An Islamic mobile app built with Flutter.
 - Tasbeeh counter
 - Prayer times (static data)
 - Full support for dark/light themes and RTL layout
+- Provider
 
 ---
 
@@ -34,7 +38,9 @@ A Flutter app that displays a list of movies with details and posters.
 **Features:**
 - Clean UI with scrollable movie cards
 - Reusable widgets
-- Ready for API integration (currently using static data)
+- Api integration
+- MVVM
+- Bloc
 
 ---
 
@@ -46,16 +52,27 @@ A modern Flutter event app inspired by a UI challenge.
 - Event listings with images
 - Navigation bar and custom page transitions
 - Beautiful UI focused on user experience
+- Provider
+- Google Maps
 
 ---
 
 ## 🛠 Tech Stack
 
+### 🚀 Languages & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📐 Architecture & State Management
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=code&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-40C4FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-7B1FA2?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🌐 Backend & APIs
+![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
