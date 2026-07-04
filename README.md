@@ -140,7 +140,7 @@ A modern Flutter event app inspired by a UI challenge.
 ---
 
 <h1 align="center">Thanks for stopping by! Feel free to explore my work or reach out 🚀</h1>
-<p align="center"><img src="https://githubusercontent.com" width="500"/></p>
+<p align="center"><img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxODU3OTIsIm5iZiI6MTc4MzE4NTQ5MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA0VDE3MTgxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5YjNlYjlhYWE4YzIxN2I3ZWMzZGQ1Zjk4ZDAzZTllZTNjMWZhNDJlMDBiM2M1NTU3Nzk4ZDkyNWEzYmQ3ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.q4NkeW0mIFca50XPGkBIRw7U0xbQjhbNs-QVjpSYAyk" width="500"/></p>
 
 
 <!--
