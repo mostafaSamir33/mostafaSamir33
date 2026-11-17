@@ -29,10 +29,9 @@ A beautifully designed Flutter app to browse news by category.
 - API integration
 - MVVM
 - BloC
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.tenor.com/BVgQ3t2Qci0AAAAm/groupgreeting-groupgreeting-stickers.webp" width="300"/>
-</p>
-
+</p> -->
 ---
 
 ### 📿 [Islami App](https://github.com/mostafaSamir33/islami)
@@ -45,10 +44,9 @@ An Islamic mobile app built with Flutter.
 - Prayer times (static data)
 - Full support for dark/light themes and RTL layout
 - Provider
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.tenor.com/FqWn96ABCIEAAAAm/mosque-masjid-menara-hijau.webp" width="300"/>
-</p>
-
+</p> -->
 ---
 
 ### 🎬 [Movies App](https://github.com/mostafaSamir33/movies_app_)
@@ -60,10 +58,9 @@ A Flutter app that displays a list of movies with details and posters.
 - API integration
 - MVVM
 - BloC
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.tenor.com/zDZRlH-tT1sAAAAM/despicable-me-minions.gif" width="300"/>
-</p>
-
+</p> -->
 ---
 
 ### 📅 [Evently App](https://github.com/mostafaSamir33/evently_app)
@@ -76,10 +73,9 @@ A modern Flutter event app inspired by a UI challenge.
 - Beautiful UI focused on user experience
 - Google Maps integration
 - State management using Provider
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.tenor.com/KPJE80WFJJwAAAAm/event-author-event.webp" width="300"/>
-</p>
-
+</p> -->
 ---
 
 ## 🛠 Tech Stack
@@ -87,7 +83,6 @@ A modern Flutter event app inspired by a UI challenge.
 ### 🚀 Languages & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -98,8 +93,9 @@ A modern Flutter event app inspired by a UI challenge.
 
 ### 🌐 Backend & APIs
 ![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -111,7 +107,7 @@ A modern Flutter event app inspired by a UI challenge.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaSamir33&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
+-->
 ---
 
 ## 📫 Let's Connect
@@ -140,7 +136,7 @@ A modern Flutter event app inspired by a UI challenge.
 ---
 
 <h1 align="center">Thanks for stopping by! Feel free to explore my work or reach out 🚀</h1>
-<p align="center"><img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxODU3OTIsIm5iZiI6MTc4MzE4NTQ5MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA0VDE3MTgxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5YjNlYjlhYWE4YzIxN2I3ZWMzZGQ1Zjk4ZDAzZTllZTNjMWZhNDJlMDBiM2M1NTU3Nzk4ZDkyNWEzYmQ3ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.q4NkeW0mIFca50XPGkBIRw7U0xbQjhbNs-QVjpSYAyk" width="500"/></p>
+<p align="center"><img src="[https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxODU3OTIsIm5iZiI6MTc4MzE4NTQ5MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA0VDE3MTgxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5YjNlYjlhYWE4YzIxN2I3ZWMzZGQ1Zjk4ZDAzZTllZTNjMWZhNDJlMDBiM2M1NTU3Nzk4ZDkyNWEzYmQ3ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.q4NkeW0mIFca50XPGkBIRw7U0xbQjhbNs-QVjpSYAyk](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" width="500"/></p>
 
 
 <!--
